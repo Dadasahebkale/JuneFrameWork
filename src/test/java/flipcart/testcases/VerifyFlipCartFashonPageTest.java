@@ -22,7 +22,6 @@ public class VerifyFlipCartFashonPageTest extends TestBase{
 	}
 	@Test
 	public void VerifyFlipcartfashonPageTest() {
-		//fp.verifyFlipcartTitle();
 		fp.VerifyFlipCartFashonPageTest();
 		
 	}

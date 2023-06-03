@@ -22,7 +22,6 @@ public class VerifyFlipCartElectronicPageTest extends TestBase{
 	}
 	@Test
 	public void VerifyFlipCartelectronicPageTest() {
-		//fp.verifyFlipcartTitle();
 		fp.ElectrictPage();
 		
 	}

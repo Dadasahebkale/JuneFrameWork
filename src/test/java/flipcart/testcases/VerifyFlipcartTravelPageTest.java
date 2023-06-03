@@ -22,7 +22,6 @@ public class VerifyFlipcartTravelPageTest extends TestBase{
 	}
 	@Test
 	public void VerifyFlipcarttravelpage() {
-		//fp.verifyFlipcartTitle();
 		fp.travelPageTest();
 		
 	}

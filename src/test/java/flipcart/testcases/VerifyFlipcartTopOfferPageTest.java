@@ -22,7 +22,6 @@ public class VerifyFlipcartTopOfferPageTest extends TestBase{
 	}
 	@Test
 	public void VerifyFlipcartTopOffersPage() {
-		//fp.verifyFlipcartTitle();
 		fp.TopOffersPage();
 		
 	}

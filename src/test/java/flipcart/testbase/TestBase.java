@@ -74,7 +74,7 @@ public static WebDriver driver;
 		
 		String timeStamp = new SimpleDateFormat("yyyy_MM_dd_HH_mm_ss").format(new Date());
 		reports = new ExtentReports(System.getProperty("user.dir")+"\\src\\test\\resources\\executionReports\\ExtentReportResults_"+timeStamp+".html");
-		                                                              //src\test\resources\executionReports					
+		                                                             					
 		loadRunModeHashtable();
 	}
 	

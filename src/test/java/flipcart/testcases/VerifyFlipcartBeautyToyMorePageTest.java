@@ -22,7 +22,6 @@ public class VerifyFlipcartBeautyToyMorePageTest extends TestBase{
 	}
 	@Test
 	public void VerifyFlipcartBeautyToyMorePage() {
-		//fp.verifyFlipcartTitle();
 		fp.BeautyToyMorePage();
 		
 	}

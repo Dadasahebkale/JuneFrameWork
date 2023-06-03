@@ -22,7 +22,6 @@ public class VerifyFlipcartGroceryPageTest extends TestBase{
 	}
 	@Test
 	public void VerifyFlipcartGroceryTest() {
-		//fp.verifyFlipcartTitle();
 		fp.verifyFlipcartTitle().grocerypage();
 		
 	}

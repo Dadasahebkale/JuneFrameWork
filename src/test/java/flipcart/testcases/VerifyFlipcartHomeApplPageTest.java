@@ -22,7 +22,6 @@ public class VerifyFlipcartHomeApplPageTest extends TestBase{
 	}
 	@Test
 	public void VerifyFlipcarthomeapp() {
-		//fp.verifyFlipcartTitle();
 		fp.homeappPage();
 		
 	}

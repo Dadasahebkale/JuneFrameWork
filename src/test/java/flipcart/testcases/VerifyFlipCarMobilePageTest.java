@@ -22,7 +22,6 @@ public class VerifyFlipCarMobilePageTest extends TestBase{
 	}
 	@Test
 	public void VerifyFlipCarMobilePage() {
-		//fp.verifyFlipcartTitle();
 		fp.VerifyFlipCarMobilePageTest();
 		
 	}
