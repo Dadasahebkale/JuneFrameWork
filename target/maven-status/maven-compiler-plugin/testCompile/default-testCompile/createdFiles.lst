@@ -1,0 +1,5 @@
+flipcart\pages\FlipcartHomePage.class
+flipcart\testcases\VerifyFlipcartHomePage.class
+flipcart\testbase\TestBase.class
+flipcart\commonmethods\CommonMethods.class
+flipcart\listeners\Listeners.class
