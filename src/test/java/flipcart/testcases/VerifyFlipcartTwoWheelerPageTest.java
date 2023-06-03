@@ -25,6 +25,7 @@ public class VerifyFlipcartTwoWheelerPageTest extends TestBase{
 		//fp.verifyFlipcartTitle();
 		fp.TwoWheelerPage();
 		
+		
 	}
 	
 
